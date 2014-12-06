@@ -1,0 +1,118 @@
+{
+  "cards": [
+    {
+      "mId": "2df3e2bf-98db-4f42-92b6-d12cd73126b4",
+      "mCardType": "text",
+      "mFront": "A standard used to evaluate similar things",
+      "mBack": "Benchmark"
+    },
+    {
+      "mId": "a0e80c93-a3cb-480c-a005-3bc08627c574",
+      "mCardType": "text",
+      "mFront": "(adv.) Alongside each other, moving in one direction; (adj.) Well informed, up to date on a subject",
+      "mBack": "Abreast"
+    },
+    {
+      "mId": "2fcd478f-4a10-4230-8df4-3f3b91b9dbb4",
+      "mCardType": "text",
+      "mFront": "To benefit from or take advantage of something",
+      "mBack": "Capitalize"
+    },
+    {
+      "mId": "9d2de026-711e-482e-bf45-e9d91750a4c9",
+      "mCardType": "text",
+      "mFront": "In law, an official request to a court not to proceed with a case without notice to the person making the request",
+      "mBack": "Caveat"
+    },
+    {
+      "mId": "ead27412-a2b1-45f3-8a45-2dd0d54abc46",
+      "mCardType": "text",
+      "mFront": "An order",
+      "mBack": "Command"
+    },
+    {
+      "mId": "d179b696-6d35-4e24-ae75-e8d8e817e438",
+      "mCardType": "image",
+      "mFront": "",
+      "mBack": "Government"
+    },
+    {
+      "mId": "67caa5a9-9c1e-4617-9986-7838b1a5313e",
+      "mCardType": "text",
+      "mFront": "To separate or organize into categories or compartments",
+      "mBack": "Compartmentalize"
+    },
+    {
+      "mId": "f17e7ac4-286a-4d12-b8fc-44cae5887b23",
+      "mCardType": "text",
+      "mFront": "The linguistic sense of a word that helps explain its meaning--the words before and after the word in question",
+      "mBack": "Context"
+    },
+    {
+      "mId": "85a39cac-3aeb-4c2f-9f1b-21e30b9dca0b",
+      "mCardType": "image",
+      "mFront": "",
+      "mBack": "Organic"
+    },
+    {
+      "mId": "827442e4-41a8-4a2d-ae41-332e365e53b4",
+      "mCardType": "text",
+      "mFront": "Main or central feature",
+      "mBack": "Crux"
+    },
+    {
+      "mId": "4daca8a3-9665-45d4-a30e-a724f910f00c",
+      "mCardType": "text",
+      "mFront": "Statistic, like sex, age, or income, that characterizes human populations",
+      "mBack": "Demographic"
+    },
+    {
+      "mId": "4727a77f-3e9f-4f0b-ab69-9a29ab0a378d",
+      "mCardType": "text",
+      "mFront": "To give orders or demands with authority",
+      "mBack": "Dictate"
+    },
+    {
+      "mId": "41432991-c936-4da7-bdbf-de9523a44d18",
+      "mCardType": "image",
+      "mFront": "",
+      "mBack": "Crime"
+    },
+    {
+      "mId": "c163a6e6-8dac-4251-91e7-160a02c9d80d",
+      "mCardType": "text",
+      "mFront": "The act of spending money",
+      "mBack": "Expenditure"
+    },
+    {
+      "mId": "e1e1476a-626f-42e0-bf7f-e1a73480528d",
+      "mCardType": "text",
+      "mFront": "To cause positive admiration or respect",
+      "mBack": "Impress"
+    },
+    {
+      "mId": "c363aa55-d666-49f8-9839-469f28e5fcb8",
+      "mCardType": "text",
+      "mFront": "To experience something unpleasant",
+      "mBack": "Incur"
+    },
+    {
+      "mId": "c1a7ff3c-e4ed-42f0-9af5-55210d87f3b5",
+      "mCardType": "image",
+      "mFront": "",
+      "mBack": "Survey"
+    },
+    {
+      "mId": "1946b82f-a0dc-4118-b419-643f7188f4f0",
+      "mCardType": "text",
+      "mFront": "To reflect deeply on a subject",
+      "mBack": "Mull"
+    },
+    {
+      "mId": "cb6d9511-5786-44ba-bdf4-2dbc9a91c50d",
+      "mCardType": "image",
+      "mFront": "",
+      "mBack": "Novel"
+    }
+  ]
+}
