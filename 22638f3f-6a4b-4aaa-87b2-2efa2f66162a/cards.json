@@ -1,0 +1,214 @@
+{
+  "cards": [
+    {
+      "mId": "fd9d213c-8594-4686-8984-ece570233b5d",
+      "mCardType": "image",
+      "mFront": "fd9d213c-8594-4686-8984-ece570233b5d",
+      "mBack": "apple"
+    },
+    {
+      "mId": "51a46d21-1b27-4c00-ad2a-4a61c7e65187",
+      "mCardType": "image",
+      "mFront": "51a46d21-1b27-4c00-ad2a-4a61c7e65187",
+      "mBack": "apricot"
+    },
+    {
+      "mId": "43471911-2faf-4ac0-8c55-5420ed32b20a",
+      "mCardType": "image",
+      "mFront": "43471911-2faf-4ac0-8c55-5420ed32b20a",
+      "mBack": "avocado"
+    },
+    {
+      "mId": "8efb2c74-7e5c-4e20-a760-be3a8c5fc09a",
+      "mCardType": "image",
+      "mFront": "8efb2c74-7e5c-4e20-a760-be3a8c5fc09a",
+      "mBack": "banana"
+    },
+    {
+      "mId": "245b0f4f-ac96-4024-b328-2732439a30b2",
+      "mCardType": "image",
+      "mFront": "245b0f4f-ac96-4024-b328-2732439a30b2",
+      "mBack": "bilberry "
+    },
+    {
+      "mId": "1ab5877d-b464-4895-8e20-390840824c05",
+      "mCardType": "image",
+      "mFront": "1ab5877d-b464-4895-8e20-390840824c05",
+      "mBack": "blackberry"
+    },
+    {
+      "mId": "2484dc00-de15-4064-96d9-07dba81449ee",
+      "mCardType": "image",
+      "mFront": "2484dc00-de15-4064-96d9-07dba81449ee",
+      "mBack": "cherry"
+    },
+    {
+      "mId": "05e64690-cb69-4599-a1d3-8a8684165511",
+      "mCardType": "image",
+      "mFront": "05e64690-cb69-4599-a1d3-8a8684165511",
+      "mBack": "coconut"
+    },
+    {
+      "mId": "8ffc4d6f-2d25-48e2-9f67-500fe798b1c1",
+      "mCardType": "image",
+      "mFront": "8ffc4d6f-2d25-48e2-9f67-500fe798b1c1",
+      "mBack": "cranberry"
+    },
+    {
+      "mId": "a5433b48-469e-4d88-b4ec-1105fa1a0be6",
+      "mCardType": "image",
+      "mFront": "a5433b48-469e-4d88-b4ec-1105fa1a0be6",
+      "mBack": "currant"
+    },
+    {
+      "mId": "9241f8cb-8bab-4d44-929d-df8086677a6c",
+      "mCardType": "image",
+      "mFront": "9241f8cb-8bab-4d44-929d-df8086677a6c",
+      "mBack": "gooseberry"
+    },
+    {
+      "mId": "4edf63dc-6119-4dcd-a14a-64c6a686099d",
+      "mCardType": "image",
+      "mFront": "4edf63dc-6119-4dcd-a14a-64c6a686099d",
+      "mBack": "grape"
+    },
+    {
+      "mId": "8800b54f-6e5e-45e6-a205-a353b5059c8b",
+      "mCardType": "image",
+      "mFront": "8800b54f-6e5e-45e6-a205-a353b5059c8b",
+      "mBack": "grapefruit"
+    },
+    {
+      "mId": "c802ddbb-bba6-4649-8645-2c7d66fb63aa",
+      "mCardType": "image",
+      "mFront": "c802ddbb-bba6-4649-8645-2c7d66fb63aa",
+      "mBack": "kiwi"
+    },
+    {
+      "mId": "62e84542-1b18-4f17-bbed-ae66b07b2f77",
+      "mCardType": "image",
+      "mFront": "62e84542-1b18-4f17-bbed-ae66b07b2f77",
+      "mBack": "lemon"
+    },
+    {
+      "mId": "9a72427e-a985-46d4-878f-ea7d7faf3ef7",
+      "mCardType": "image",
+      "mFront": "9a72427e-a985-46d4-878f-ea7d7faf3ef7",
+      "mBack": "mango"
+    },
+    {
+      "mId": "e797c101-5fc2-4615-9aaa-3886cd888b9e",
+      "mCardType": "image",
+      "mFront": "e797c101-5fc2-4615-9aaa-3886cd888b9e",
+      "mBack": "watermelon"
+    },
+    {
+      "mId": "5271c746-3f2b-4425-b2ea-a5ad4d6f9de9",
+      "mCardType": "image",
+      "mFront": "5271c746-3f2b-4425-b2ea-a5ad4d6f9de9",
+      "mBack": "orange"
+    },
+    {
+      "mId": "e7b935e9-df38-4f4b-8815-6daf5d13f0dd",
+      "mCardType": "image",
+      "mFront": "e7b935e9-df38-4f4b-8815-6daf5d13f0dd",
+      "mBack": "peanut"
+    },
+    {
+      "mId": "b8b039a6-9a28-474e-9768-ca91babd1b2d",
+      "mCardType": "image",
+      "mFront": "b8b039a6-9a28-474e-9768-ca91babd1b2d",
+      "mBack": "peach"
+    },
+    {
+      "mId": "f1384af4-3cb7-4f80-9b94-e7675d0e1110",
+      "mCardType": "image",
+      "mFront": "f1384af4-3cb7-4f80-9b94-e7675d0e1110",
+      "mBack": "pear"
+    },
+    {
+      "mId": "601e243e-0246-4ee5-a625-cbe22f4c2582",
+      "mCardType": "image",
+      "mFront": "601e243e-0246-4ee5-a625-cbe22f4c2582",
+      "mBack": "pineapple"
+    },
+    {
+      "mId": "50ef6a59-1861-4e95-bee5-3d7ed4976ce1",
+      "mCardType": "image",
+      "mFront": "50ef6a59-1861-4e95-bee5-3d7ed4976ce1",
+      "mBack": "plum"
+    },
+    {
+      "mId": "97fc5298-9a9a-41c1-9b99-4eb805cf4c1c",
+      "mCardType": "image",
+      "mFront": "97fc5298-9a9a-41c1-9b99-4eb805cf4c1c",
+      "mBack": "pomegranate"
+    },
+    {
+      "mId": "70741f79-d3f4-4917-bcbf-403b171a2859",
+      "mCardType": "image",
+      "mFront": "70741f79-d3f4-4917-bcbf-403b171a2859",
+      "mBack": "raspberry"
+    },
+    {
+      "mId": "85970c78-fc67-42d8-85c0-245905779b67",
+      "mCardType": "image",
+      "mFront": "85970c78-fc67-42d8-85c0-245905779b67",
+      "mBack": "strawberry"
+    },
+    {
+      "mId": "f532bf00-bec3-4fbe-ad48-b8e709485d43",
+      "mCardType": "image",
+      "mFront": "f532bf00-bec3-4fbe-ad48-b8e709485d43",
+      "mBack": "tomato"
+    },
+    {
+      "mId": "b7c358d5-9704-492a-9ee0-1d2aec897594",
+      "mCardType": "image",
+      "mFront": "b7c358d5-9704-492a-9ee0-1d2aec897594",
+      "mBack": "walnut"
+    },
+    {
+      "mId": "d23c1759-4c44-47c9-88e6-00034f05d691",
+      "mCardType": "image",
+      "mFront": "d23c1759-4c44-47c9-88e6-00034f05d691",
+      "mBack": "fig"
+    },
+    {
+      "mId": "8134de24-a2d4-4615-8c7b-9ee4f0ef59e1",
+      "mCardType": "image",
+      "mFront": "8134de24-a2d4-4615-8c7b-9ee4f0ef59e1",
+      "mBack": "kiwi"
+    },
+    {
+      "mId": "ac371976-d8a9-425f-b741-4fac8bd761d0",
+      "mCardType": "image",
+      "mFront": "ac371976-d8a9-425f-b741-4fac8bd761d0",
+      "mBack": "lychee"
+    },
+    {
+      "mId": "bfdf0e0c-fc0f-4b71-a17a-0e312ac58507",
+      "mCardType": "image",
+      "mFront": "bfdf0e0c-fc0f-4b71-a17a-0e312ac58507",
+      "mBack": "passion fruit"
+    },
+    {
+      "mId": "24debcd8-3fff-44e7-99a7-b8ae9b33fd54",
+      "mCardType": "image",
+      "mFront": "24debcd8-3fff-44e7-99a7-b8ae9b33fd54",
+      "mBack": "plum"
+    },
+    {
+      "mId": "73c0b510-9b8e-468d-97d0-b8eff932f45d",
+      "mCardType": "image",
+      "mFront": "73c0b510-9b8e-468d-97d0-b8eff932f45d",
+      "mBack": "papaya"
+    },
+    {
+      "mId": "0ba8e60f-b009-4b7f-bf23-4acbb86f179f",
+      "mCardType": "image",
+      "mFront": "0ba8e60f-b009-4b7f-bf23-4acbb86f179f",
+      "mBack": "lime"
+    }
+  ]
+}
