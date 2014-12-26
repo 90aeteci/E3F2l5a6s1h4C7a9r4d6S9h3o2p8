@@ -27,6 +27,20 @@
       "mNoCards": "49",
       "mDescription": "General English Vocabulary for Dining Out in Restaurants ",
       "mThumbnail": "https://raw.githubusercontent.com/90aeteci/E3F2l5a6s1h4C7a9r4d6S9h3o2p8/master/357b31e6-8aff-4076-95ee-51134022aa11/thumbnail.jpg"
+    },
+    {
+      "mId": "bee9ca6e-a406-4735-8eca-412220bc74de",
+      "mName": "Animal Vocabulary",
+      "mNoCards": 32,
+      "mDescription": "In this card collection, you'll find typical terms that we use to refer to some of the more common animals",
+      "mThumbnail": "https://raw.githubusercontent.com/90aeteci/E3F2l5a6s1h4C7a9r4d6S9h3o2p8/master/bee9ca6e-a406-4735-8eca-412220bc74de/thumbnail.jpg"
+    },
+    {
+      "mId": "4ddbfe01-cbce-46aa-bb9f-5af047cbe1e5",
+      "mName": "Medical Vocabulary",
+      "mNoCards": 127,
+      "mDescription": "This card collection provides common medical vocabulary",
+      "mThumbnail": "https://raw.githubusercontent.com/90aeteci/E3F2l5a6s1h4C7a9r4d6S9h3o2p8/master/4ddbfe01-cbce-46aa-bb9f-5af047cbe1e5/thumbnail.jpg"
     }
   ]
 }

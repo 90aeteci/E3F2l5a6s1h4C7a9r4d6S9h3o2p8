@@ -1,0 +1,196 @@
+{
+  "cards": [
+    {
+      "mId": "72b5733a-d473-4ee5-844b-27d4c60fe0a1",
+      "mCardType": "image",
+      "mFront": "72b5733a-d473-4ee5-844b-27d4c60fe0a1",
+      "mBack": "ant"
+    },
+    {
+      "mId": "9b200916-07a8-4ba0-98da-a8f3204643d9",
+      "mCardType": "image",
+      "mFront": "9b200916-07a8-4ba0-98da-a8f3204643d9",
+      "mBack": "bat"
+    },
+    {
+      "mId": "3fb426d9-48fb-4110-9566-2d695f20a02a",
+      "mCardType": "image",
+      "mFront": "3fb426d9-48fb-4110-9566-2d695f20a02a",
+      "mBack": "bear"
+    },
+    {
+      "mId": "0e239ba6-1bb9-4a9a-9754-f51b294ba1a5",
+      "mCardType": "image",
+      "mFront": "0e239ba6-1bb9-4a9a-9754-f51b294ba1a5",
+      "mBack": "bee"
+    },
+    {
+      "mId": "5b7ae270-8cb0-4ee3-adf9-fbec113a1368",
+      "mCardType": "image",
+      "mFront": "5b7ae270-8cb0-4ee3-adf9-fbec113a1368",
+      "mBack": "bird"
+    },
+    {
+      "mId": "54991534-516e-48c2-9efc-b03064ab575d",
+      "mCardType": "image",
+      "mFront": "54991534-516e-48c2-9efc-b03064ab575d",
+      "mBack": "buffalo"
+    },
+    {
+      "mId": "6550c5af-eda2-4c90-85bc-4033d0f27f17",
+      "mCardType": "image",
+      "mFront": "6550c5af-eda2-4c90-85bc-4033d0f27f17",
+      "mBack": "cat"
+    },
+    {
+      "mId": "53a362d0-7b53-484e-9258-a3da19a71383",
+      "mCardType": "image",
+      "mFront": "53a362d0-7b53-484e-9258-a3da19a71383",
+      "mBack": "chicken"
+    },
+    {
+      "mId": "ec8e1f65-b452-413f-8e56-85881d46b37c",
+      "mCardType": "image",
+      "mFront": "ec8e1f65-b452-413f-8e56-85881d46b37c",
+      "mBack": "cow"
+    },
+    {
+      "mId": "e1305cb1-0e3d-4fc6-a84f-bb52267cac24",
+      "mCardType": "image",
+      "mFront": "e1305cb1-0e3d-4fc6-a84f-bb52267cac24",
+      "mBack": "dog"
+    },
+    {
+      "mId": "e7036c76-d53a-4bbd-87cd-09abb8fe8059",
+      "mCardType": "image",
+      "mFront": "e7036c76-d53a-4bbd-87cd-09abb8fe8059",
+      "mBack": "dolphin"
+    },
+    {
+      "mId": "f2f8f400-7a46-4fc2-be16-11db37a61a74",
+      "mCardType": "image",
+      "mFront": "f2f8f400-7a46-4fc2-be16-11db37a61a74",
+      "mBack": "duck"
+    },
+    {
+      "mId": "7a5aac8c-8b5c-4688-bd3c-68891810c854",
+      "mCardType": "image",
+      "mFront": "7a5aac8c-8b5c-4688-bd3c-68891810c854",
+      "mBack": "elephant"
+    },
+    {
+      "mId": "2ab4d6dc-393d-41ac-a0a9-6cf6c80b1ed0",
+      "mCardType": "image",
+      "mFront": "2ab4d6dc-393d-41ac-a0a9-6cf6c80b1ed0",
+      "mBack": "fish"
+    },
+    {
+      "mId": "41f072ba-4071-4395-acb9-d98276014977",
+      "mCardType": "image",
+      "mFront": "41f072ba-4071-4395-acb9-d98276014977",
+      "mBack": "fox"
+    },
+    {
+      "mId": "29e1800e-dbbd-4a41-89f6-2584ad005f44",
+      "mCardType": "image",
+      "mFront": "29e1800e-dbbd-4a41-89f6-2584ad005f44",
+      "mBack": "frog"
+    },
+    {
+      "mId": "e124a8e0-a150-4f32-aa98-ff349786a50d",
+      "mCardType": "image",
+      "mFront": "e124a8e0-a150-4f32-aa98-ff349786a50d",
+      "mBack": "goose"
+    },
+    {
+      "mId": "92031598-85f1-4970-9701-9fa1ab399d20",
+      "mCardType": "image",
+      "mFront": "92031598-85f1-4970-9701-9fa1ab399d20",
+      "mBack": "goat"
+    },
+    {
+      "mId": "e4a8ca34-7f46-4170-a653-8d85d4cfea86",
+      "mCardType": "image",
+      "mFront": "e4a8ca34-7f46-4170-a653-8d85d4cfea86",
+      "mBack": "horse"
+    },
+    {
+      "mId": "7acca902-3b82-4c9e-96c4-429a16fc2c7b",
+      "mCardType": "image",
+      "mFront": "7acca902-3b82-4c9e-96c4-429a16fc2c7b",
+      "mBack": "kangaroo"
+    },
+    {
+      "mId": "ec57cf8a-ba77-4a3c-aec8-a444f6c0cf31",
+      "mCardType": "image",
+      "mFront": "ec57cf8a-ba77-4a3c-aec8-a444f6c0cf31",
+      "mBack": "lion"
+    },
+    {
+      "mId": "83ec8f26-44e4-4c3b-acf5-d4437af2f886",
+      "mCardType": "image",
+      "mFront": "83ec8f26-44e4-4c3b-acf5-d4437af2f886",
+      "mBack": "monkey"
+    },
+    {
+      "mId": "1eb5667f-d19d-4f9e-b4c0-b5c868fefca3",
+      "mCardType": "image",
+      "mFront": "1eb5667f-d19d-4f9e-b4c0-b5c868fefca3",
+      "mBack": "owl"
+    },
+    {
+      "mId": "b1310c54-7da3-40f8-9b72-3f20e9c9571e",
+      "mCardType": "image",
+      "mFront": "b1310c54-7da3-40f8-9b72-3f20e9c9571e",
+      "mBack": "ox"
+    },
+    {
+      "mId": "4f8946f5-ed43-4e72-bcf9-9fe87dd9a054",
+      "mCardType": "image",
+      "mFront": "4f8946f5-ed43-4e72-bcf9-9fe87dd9a054",
+      "mBack": "penguin"
+    },
+    {
+      "mId": "bcbfd0b9-491a-4f0c-ae8c-d9982f8b1939",
+      "mCardType": "image",
+      "mFront": "bcbfd0b9-491a-4f0c-ae8c-d9982f8b1939",
+      "mBack": "pig"
+    },
+    {
+      "mId": "b4173dcc-a3ae-4365-9fb4-c8e4adfa85ba",
+      "mCardType": "image",
+      "mFront": "b4173dcc-a3ae-4365-9fb4-c8e4adfa85ba",
+      "mBack": "rabbit"
+    },
+    {
+      "mId": "d518f336-c862-422b-aac9-75101fe74b94",
+      "mCardType": "image",
+      "mFront": "d518f336-c862-422b-aac9-75101fe74b94",
+      "mBack": "sheep"
+    },
+    {
+      "mId": "d46ffc9f-08f3-4b73-8564-61031ec94f8d",
+      "mCardType": "image",
+      "mFront": "d46ffc9f-08f3-4b73-8564-61031ec94f8d",
+      "mBack": "tiger"
+    },
+    {
+      "mId": "e3a298d2-2f5e-41b0-a78a-9b94d694ac31",
+      "mCardType": "image",
+      "mFront": "e3a298d2-2f5e-41b0-a78a-9b94d694ac31",
+      "mBack": "whale"
+    },
+    {
+      "mId": "a23876fd-f2fb-4859-b53c-34a19a28a6eb",
+      "mCardType": "image",
+      "mFront": "a23876fd-f2fb-4859-b53c-34a19a28a6eb",
+      "mBack": "wolf"
+    },
+    {
+      "mId": "4361bd9a-bff2-44a6-bbb1-2b0b6c21b452",
+      "mCardType": "image",
+      "mFront": "4361bd9a-bff2-44a6-bbb1-2b0b6c21b452",
+      "mBack": "zebra"
+    }
+  ]
+}
